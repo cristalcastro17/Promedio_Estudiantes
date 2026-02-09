@@ -2,9 +2,13 @@ Sistema de Cálculo de Notas C#
 # Este proyecto consiste en una aplicación de escritorio que permite ingresar cuatro notas, calcular el promedio final y determinar si el estudiante:
 
 Aprueba directamente.
+
 Pasa a completivo.
+
 Pasa a extraordinario.
+
 Reprueba.
+
 #Se utiliza las reglas de evaluación académica, mostrando mensajes al usuario según el resultado obtenido.
 
 🛠️ Tecnologías Utilizadas
